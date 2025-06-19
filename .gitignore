@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pyc
+API_KEY.py
+news_data.csv
+news_data_cleaned.csv
+news_data_with_sentiment.csv
