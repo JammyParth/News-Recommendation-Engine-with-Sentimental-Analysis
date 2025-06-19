@@ -19,3 +19,7 @@ This project is a news recommendation system that suggests similar articles base
 5. Streamlit – Web app interface.
 6. Git + GitHub – Version control and project hosting.
 
+## Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
