@@ -2,9 +2,9 @@
 This project is a news recommendation system that suggests similar articles based on content similarity and sentiment polarity.
 
 
-> Get article recommendations using text similarity (TF-IDF + cosine similarity).
-> Optionally filter recommendations by sentiment (positive, negative, neutral).
-> Interact with the system via a user-friendly Streamlit web interface.
+. Get article recommendations using text similarity (TF-IDF + cosine similarity).
+. Optionally filter recommendations by sentiment (positive, negative, neutral).
+.  Interact with the system via a user-friendly Streamlit web interface.
 
 
 Tech Stack
